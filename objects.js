@@ -1,3 +1,1 @@
-var playlist = { radiohead; "There There"};
-
-function
+var playlist = { radiohead: "There There"};
